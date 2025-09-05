@@ -36,6 +36,7 @@ sudo pacman -S --noconfirm --needed \
   gnome-calculator \
   gnome-keyring \
   gnome-themes-extra \
+  gradia \
   gum \
   gvfs-mtp \
   gvfs-smb \
@@ -44,7 +45,6 @@ sudo pacman -S --noconfirm --needed \
   hyprland-qtutils \
   hyprlock \
   hyprpicker \
-  hyprshot \
   hyprsunset \
   imagemagick \
   impala \
